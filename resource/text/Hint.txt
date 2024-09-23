@@ -1,0 +1,17 @@
+[ HINT ]
+Activate button-"A" - Activate the program and calculate the path based on the initial e,
+    and Nico will move forward of a lattice,and then the button will be converted into March button "M".
+    Since then after each click on "M", e will -1 and do the same thing as above.
+                        
+Rush button-"R" - Rush to the next checkpoint (Inquiry Time) immediately.
+    (You have to click "A" to activate it first at the very beginning)
+                        
+Setting button-"S" - Setting interface
+    Algo. -  choose pathfinding algorithm (default: ARA*).
+    Mode - choose special modes. [e and Nico's position will not change in first 2 modes]
+        Gradual (test ony): The interface will display the nodes extended to each iteration in turn.
+        Developer (test only): Left click on a cell to set it as the starting point. Right click on a cell to set it as the end point.
+            Hold Down the 'Ctrl' Key: Left button to set it as path. Right button to set it as wall.
+        INQ Window: Open a new window that shows the path to the End on each Inquiry Time.
+                                
+TimeTable button-"..." - To view Magic Attack and Inquiry Timetable information.
